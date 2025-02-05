@@ -1,0 +1,18 @@
+This is for practice.
+
+Purpose:
+- This file is created to practice Git commands.
+- It will be used for testing commits, pushes, and other Git operations.
+
+Instructions:
+1. Modify this file and save the changes.
+2. Use Git to track and commit changes.
+3. Push the updates to your repository.
+
+Git Commands for Practice:
+- git status
+- git add practice.txt
+- git commit -m "Updated practice file"
+- git push origin main
+
+Happy coding!
